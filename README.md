@@ -1,4 +1,4 @@
 # briefdemo
 first github repo
 <br>
-Author - Swastika Shaw
+Author - Swastika Shaw (github profile)
